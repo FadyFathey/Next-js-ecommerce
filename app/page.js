@@ -1,7 +1,5 @@
 import Image from 'next/image';
 
 export default function Home() {
-  return <div className="">
-    hello
-  </div>;
+  return <div className="text-primary">hello</div>;
 }
